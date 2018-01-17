@@ -3,6 +3,10 @@ html {
   box-sizing: border-box;
 }
 
+body {
+  font-family: "Fira Mono", monospace;
+}
+
 p {
   font-size: 1.6rem;
 }
@@ -63,4 +67,5 @@ h2 {
   align-items: flex-end;
   justify-content: flex-end;
   box-sizing: border-box;
+  flex-wrap: wrap;
 }
